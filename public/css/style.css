@@ -1,0 +1,16 @@
+.nav-item{
+  display:inline;
+  width:auto;
+  height:20px;
+}
+/* .nav-ite{
+  background-color: #FF0000;
+  color:blue;
+} */
+
+.Genre{
+  margin: 20px;
+  background-color: cyan;
+  width: 100px;
+  border: 10px red;
+}
